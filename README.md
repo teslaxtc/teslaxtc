@@ -12,7 +12,6 @@ Skills: html, css, js, node, c++, security, tor, crypto and many more
 - ⚡ Fun fact: abcdaf @arin2115 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/teslaxtc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apple.svg' alt='apple' height='40'>](https://pastebin.com/raw/AjgJNZqC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://lookup.guru/922084384641802260)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg' alt='protonmail' height='40'>](https://protonmail.com/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=teslaxtc)](https://github.com/ryo-ma/github-profile-trophy)
 
