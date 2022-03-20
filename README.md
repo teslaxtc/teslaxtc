@@ -2,7 +2,7 @@
 #### another developer that can use every language (except python,go)
 ![another developer that can use every language (except python,go)](https://i.imgur.com/fmESV3l.png)
 
-I'm making projects just for fun, i do not remember a serious project but there is some.
+I'm making projects just for fun, i do not remember a serious project but there is some for sure XD.
 
 Skills: html, css, js, node, c++, security, tor, crypto and many more
 
