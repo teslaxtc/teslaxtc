@@ -12,10 +12,9 @@ Skills: html, css, js, node, c++, security, tor, crypto and many more
 - ⚡ Fun fact: abcdaf @arin2115 
 
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=teslaxtc&show_icons=true)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=teslaxtc)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=teslaxtc&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=teslaxtc)  
+
 
